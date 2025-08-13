@@ -1,4 +1,4 @@
-import productos from "/datos/Productos.json";
+import productos from "../Datos/Productos.json";
 import { Link } from "react-router-dom";
 
 export default function Index() {

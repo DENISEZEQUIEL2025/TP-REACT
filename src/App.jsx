@@ -3,8 +3,8 @@ import Nav from "./Componentes/Nav.jsx";
 import Index from "./Paginas/Index.jsx";
 import Catalogo from "./Paginas/Catalogo.jsx";
 import Carrito from "./Paginas/Carrito.jsx";
+import Contacto from "./Paginas/Contacto.jsx";
 import ProductoDetalle from "./Paginas/ProductoDetalle.jsx";
-import Contacto from "./Paginas/Contacto.jsx"; 
 
 export default function App() {
   return (
