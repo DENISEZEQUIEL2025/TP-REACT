@@ -1,5 +1,5 @@
 import { useParams } from "react-router-dom";
-import ProductosUS from "../Hooks/ProductosUS.jsx";
+import ProductosUS from "./Hooks/ProductosUS.jsx";
 
 export default function ProductoDetalle() {
   const { id } = useParams();
