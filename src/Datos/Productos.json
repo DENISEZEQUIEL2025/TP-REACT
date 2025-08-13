@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "Notebook",
+    "marca": "Asus",
+    "precio": 700000,
+    "descripcion": "Ideal para estudio y trabajo. i3 15, 8GB RAM, 128GB SSD.",
+    "imagen": "/Imagenes/ASUS.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Notebook",
+    "marca": "Acer",
+    "precio": 1450000,
+    "descripcion": "Ideal para quienes buscan potencia y confort. Ryzen 7 5700u, 8GB RAM, 512GB SSD.",
+    "imagen": "/Imagenes/ACER.jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Notebook",
+    "marca": "MSI",
+    "precio": 3450000,
+    "descripcion": "Ideal para quienes buscan potencia y confort. I7 13va, RTX4060, 16GB RAM, 1TB SSD.",
+    "imagen": "/Imagenes/MSI.jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Teclado Mecánico",
+    "marca": "Redragon",
+    "precio": 78000,
+    "descripcion": "Rapidez y sofisticación en un solo lugar. Switches rojos, RGB.",
+    "imagen": "/Imagenes/T-REDRAGON.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Teclado Mecánico",
+    "marca": "HyperX",
+    "precio": 70000,
+    "descripcion": "Ideal para juegos intensos. Switches rojos, RGB, anti-ghost.",
+    "imagen": "/Imagenes/T-HYPER.jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Auriculares",
+    "marca": "Logitech H390",
+    "precio": 55000,
+    "descripcion": "Ideal para trabajos de oficina. Micrófono con puerto USB.",
+    "imagen": "/Imagenes/A-LOGITECH.jpg"
+  }
+]
