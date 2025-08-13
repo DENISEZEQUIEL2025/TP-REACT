@@ -7,14 +7,13 @@ const useCart = create((set, get) => ({
     set((state) => {
       const existe = state.items.find((i) => i.id === prod.id);
       if (existe) {
-        // Si ya está, aumenta la cantidad
+     
         return {
           items: state.items.map((i) =>
             i.id === prod.id ? { ...i, qty: i.qty + 1 } : i
           ),
         };
       }
-      // Si no está, lo agrega con qty = 1
       return { items: [...state.items, { ...prod, qty: 1 }] };
     }),
 
